@@ -22,6 +22,7 @@
   ],
   "version": "1.0.0",
   "minimumCoreVersion": "10",
+  "coreVersion": "10",
   "compatibleCoreVersion": "10",
   "scripts": [],
   "esmodules": [
