@@ -1,0 +1,36 @@
+{
+  "id": "lbh-a-pact-of-blood-and-ice",
+  "name": "lbh-a-pact-of-blood-and-ice",
+  "system": "dnd5e",
+  "title": "Adventure: A Pact of Blood & Ice",
+  "description": "<p>The village of Greenhaven lies in a fertile mountain valley with a delightfully mild climate and a long growing season with deep, rich soil that grows almost anything the farmers plant. Even in the winter, hardy plants thrive in Greenhaven, and the village never wants for food. So it has been for the last few decades\u2014but it was not always so.</p><p>Unknown to all but the village elders, the village\u2019s bounty is reliant on an infernal deal struck thirty years prior. Now, every year, adventurers must unwittingly pay the price, and traverse the mountain\u2019s trials and horrors along the way. Will your band of adventurers lose themselves to the mountain, or will Greenhaven suffer their survival?</p><p>\u201cA Pact of Blood & Ice\u201d is an adventure for four to six 12th-level adventurers.</p><br>",
+  "authors": [
+    {
+      "name": "Lunch Break Heroes",
+      "discord": "Lunch Break Heroes#2648",
+      "url": "https://lunchbreakheroes.com"
+    }
+  ],
+  "packs": [
+    {
+      "name": "lbh-a-pact-of-blood-and-ice",
+      "label": "Adventure: A Pact of Blood & Ice",
+      "path": "packs/adventure.db",
+      "type": "Adventure",
+      "system": "dnd5e"
+    }
+  ],
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "scripts": [],
+  "esmodules": [
+    "./js/adventure-script.mjs"
+  ],
+  "styles": [
+    "./styles/styles.css"
+  ],
+  "url": "https://lunchbreakheroes.com/product/a-pact-of-blood-and-ice/",
+  "protected": true,
+  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/lbh-a-pact-of-blood-and-ice/module.json"
+}
